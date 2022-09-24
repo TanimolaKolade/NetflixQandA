@@ -1,0 +1,16 @@
+li {
+  background-color: grey;
+  color: white;
+  margin-top: 10px;
+  padding: 10px;
+  list-style-position: inside;
+}
+
+ol {
+  background-color: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
